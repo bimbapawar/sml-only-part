@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/182A6_ezgboBUn5h4ZW8_ZU-rX7wqbte9
 """
 
-pip install streamlit
-
 import streamlit as st
 
 st.title('Identifying links between monsoon variability and different types of grains')
