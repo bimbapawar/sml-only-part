@@ -23,7 +23,7 @@ with tab1:
 
     st.write("Studying the links between monsoon variability and different types of grains is crucial for understanding and addressing the intricate relationship between climate patterns and agricultural outcomes. Monsoons play a pivotal role in determining rainfall levels, directly impacting grain production, food security, and economic stability. Investigating these connections allows for the development of informed agricultural strategies, climate change adaptation measures, and effective policies to manage risks and optimize crop yields. This research not only contributes to scientific knowledge about climate-agriculture interactions but also holds practical implications for farmers, policymakers, and stakeholders involved in ensuring food security and sustainable agricultural practices.")
 
-    st.image("/content/Screenshot 2023-11-27 101055.png", width=700)
+    st.image("Screenshot 2023-11-27 101055.png", width=700)
 
 with tab2:
     # dataset
@@ -56,10 +56,10 @@ with tab3:
     with col1:
         st.write(' ')
     with col2:
-       st.image("/content/Screenshot 2023-11-27 101418.png", width=500)
+       st.image("Screenshot 2023-11-27 101418.png", width=500)
 
        st.divider()
-       st.image("/content/Screenshot 2023-11-27 101418.png", width=500)
+       st.image("Screenshot 2023-11-27 101418.png", width=500)
 
     with col3:
         st.write(' ')
@@ -74,12 +74,12 @@ with tab4:
        st.subheader("ROC Curve and Confusion matrix")
 
        st.text("ROC Curve:")
-       st.image("/content/Screenshot 2023-11-27 101556.png", width=500)
+       st.image("Screenshot 2023-11-27 101556.png", width=500)
 
        st.divider()
 
        st.text("Confusion Matrix:")
-       st.image("/content/Screenshot 2023-11-27 101517.png", width=500)
+       st.image("Screenshot 2023-11-27 101517.png", width=500)
 
     with col3:
         st.write(' ')
